@@ -8,4 +8,4 @@
 - 💬 Ask me about nothing
 - 📫 How to reach me: mr.nothing
 - 😄 Pronouns: nothing
-- ⚡ Fun fact: nothing funny
+- ⚡ Fun fact: nothing funny here
