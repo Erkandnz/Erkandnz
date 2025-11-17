@@ -5,19 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erkandnz" alt="erkandnz" /></a> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **nothing**
+- 🌱 I’m currently learning **Nothing**
 
-- 👯 I’m looking to collaborate on **nothing**
+- 👯 I’m looking to collaborate on **Nothing**
 
-- 📝 I regularly write articles on [nothing](nothing)
+- 📝 I regularly write articles on **Nothing**
 
-- 💬 Ask me about **nothing**
+- 💬 Ask me about **Nothing**
 
-- 📫 How to reach me **mr.nothing**
 
-- ⚡ Fun fact **nothing funny here**
+- ⚡ Fun fact: **Nothing funny here.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
